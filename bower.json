@@ -1,0 +1,21 @@
+{
+  "name": "aldubtributepage",
+  "homepage": "https://github.com/monkeydominicorobin/aldubtributepage",
+  "authors": [
+    "Rommel Dominguez <ynwodsun000@outlook.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "bootstrap": "^3.3.7"
+  }
+}
