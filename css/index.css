@@ -1,0 +1,24 @@
+body{
+  font-family:'Lobster';
+  background-color:black;
+  color:white;
+}
+.jumbotron{
+  background-color:darkred;  
+}
+img{
+  width: 100%;
+  margin: auto;
+  }
+.carousel-indicators{
+  position: absolute;
+  }
+/*.carousel-indicators li{
+  border-color: none;
+}
+.carousel-indicators .active{
+  background-color: none;
+  }*/
+iframe, object, embed {
+  max-width:100%;
+}
