@@ -10,3 +10,7 @@ The Aldub Tribute Page
 **Clone the repository**
 
 ```root@kali# git clone https://github.com/monkeydominicorobin/aldubtributepage.git```
+
+**Initialize the Node Package Manager**
+
+```root@kali# npm init```
