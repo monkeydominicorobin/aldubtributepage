@@ -14,3 +14,7 @@ The Aldub Tribute Page
 **Initialize the Node Package Manager**
 
 ```root@kali# npm init```
+
+**Install Bower**
+
+
