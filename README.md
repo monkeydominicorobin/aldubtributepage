@@ -17,4 +17,6 @@ The Aldub Tribute Page
 
 **Install Bower**
 
+```root@kali# npm install bower ```
+
 
