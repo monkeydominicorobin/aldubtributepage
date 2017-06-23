@@ -4,3 +4,5 @@ The Aldub Tribute Page
 >Now you will get a semi-excellent template of a tribute page.
 
 >Feel free to make changes to my featured site.
+
+>Image Carousel at your disposal.
