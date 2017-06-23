@@ -6,3 +6,5 @@ The Aldub Tribute Page
 >Feel free to make changes to my featured site.
 
 >Image Carousel at your disposal.
+
+**Clone the repository**
